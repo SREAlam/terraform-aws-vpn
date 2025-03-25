@@ -1,0 +1,7 @@
+/terraform-aws-vpn  
+├── main.tf                  # VPN resources (VPC, CGW, VPN Gateway)  
+├── variables.tf             # Input variables (CIDR blocks, regions)  
+├── outputs.tf              # VPN connection details  
+├── README.md               # Docs + Scoop setup  
+├── .gitignore                
+└── /screenshots            # Architecture diagrams/Terraform output  
